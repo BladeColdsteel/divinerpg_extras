@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_fluid",
+  "fluid": {
+    "tag": "divinerpg_extras:molten_teaker",
+    "amount": 144
+  },
+  "temperature": 800,
+  "output": "divinerpg_extras:teaker"
+}

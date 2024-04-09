@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": {
+    "item": "divinerpg:ender_shards"
+  },
+  "value": 1,
+  "needed": 9,
+  "material": "divinerpg_extras:ender"
+}

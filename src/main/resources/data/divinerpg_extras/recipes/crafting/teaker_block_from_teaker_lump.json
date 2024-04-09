@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "divinerpg:teaker_lump"
+    }
+  },
+  "result": {
+    "item": "divinerpg_extras:teaker_block"
+  }
+}

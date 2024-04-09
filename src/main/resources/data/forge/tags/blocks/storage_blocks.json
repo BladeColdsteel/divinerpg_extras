@@ -1,0 +1,28 @@
+{
+  "replace": false,
+  "values": [
+    "#forge:storage_blocks/apalachia_chunk",
+    "#forge:storage_blocks/awakened_halite",
+    "#forge:storage_blocks/aquatic",
+    "#forge:storage_blocks/bedrock_chunk",
+    "#forge:storage_blocks/blue_diamond",
+    "#forge:storage_blocks/bluefire_stone",
+    "#forge:storage_blocks/corrupted_stone",
+    "#forge:storage_blocks/divine_stone",
+    "#forge:storage_blocks/eden_chunk",
+    "#forge:storage_blocks/ender_stone",
+    "#forge:storage_blocks/gray_diamond",
+    "#forge:storage_blocks/green_diamond",
+    "#forge:storage_blocks/hellstone",
+    "#forge:storage_blocks/ice_stone",
+    "#forge:storage_blocks/jungle_stone",
+    "#forge:storage_blocks/molten_stone",
+    "#forge:storage_blocks/mortum_chunk",
+    "#forge:storage_blocks/red_diamond",
+    "#forge:storage_blocks/shadow_stone",
+    "#forge:storage_blocks/skythern_chunk",
+    "#forge:storage_blocks/terran_stone",
+    "#forge:storage_blocks/wildwood_chunk",
+    "#forge:storage_blocks/yellow_diamond"
+  ]
+}

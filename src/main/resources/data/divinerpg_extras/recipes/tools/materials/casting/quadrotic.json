@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_fluid",
+  "fluid": {
+    "tag": "divinerpg_extras:molten_quadrotic",
+    "amount": 144
+  },
+  "temperature": 1400,
+  "output": "divinerpg_extras:quadrotic"
+}

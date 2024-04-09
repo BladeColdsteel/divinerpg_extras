@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "divinerpg_extras:awakened_halite_ingot"
+    }
+  ],
+  "result": {
+    "item": "divinerpg_extras:awakened_halite_nugget",
+    "count": 9
+  }
+}

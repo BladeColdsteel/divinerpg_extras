@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_melting",
+  "input": "divinerpg_extras:red_diamond",
+  "temperature": 1000,
+  "result": {
+    "fluid": "divinerpg_extras:molten_red_diamond",
+    "amount": 144
+  }
+}

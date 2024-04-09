@@ -1,0 +1,22 @@
+{
+  "condition": {
+    "values": [
+      {
+        "prop": "force_integration_materials",
+        "type": "tconstruct:config"
+      },
+      {
+        "modid": "divinerpg",
+        "type": "forge:mod_loaded"
+      }
+    ],
+    "type": "forge:or"
+  },
+  "type": "tconstruct:casting_basin",
+  "fluid": {
+    "name": "divinerpg_extras:molten_green_diamond",
+    "amount": 1296
+  },
+  "result": "divinerpg_extras:green_diamond_block",
+  "cooling_time": 200
+}

@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": {
+    "item": "divinerpg_extras:bluefire_stone_block"
+  },
+  "value": 9,
+  "needed": 1,
+  "material": "divinerpg_extras:bluefire",
+  "leftover": {
+    "item": "divinerpg:bluefire_stone"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": {
+    "item": "divinerpg_extras:apalachia_chunk_block"
+  },
+  "value": 9,
+  "needed": 1,
+  "material": "divinerpg_extras:apalchia",
+  "leftover": {
+    "item": "divinerpg:apalachia_chunk"
+  }
+}

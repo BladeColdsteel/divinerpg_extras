@@ -1,0 +1,31 @@
+{
+  "condition": {
+    "values": [
+      {
+        "prop": "force_integration_materials",
+        "type": "tconstruct:config"
+      },
+      {
+        "modid": "divinerpg",
+        "type": "forge:mod_loaded"
+      }
+    ],
+    "type": "forge:or"
+  },
+  "type": "tconstruct:alloy",
+  "inputs": [
+    {
+      "name": "divinerpg_extras:molten_arlemite",
+      "amount": 144
+    },
+    {
+      "name": "divinerpg_extras:molten_rupee",
+      "amount": 144
+    }
+  ],
+  "result": {
+    "fluid": "divinerpg_extras:molten_shadow_stone",
+    "amount": 72
+  },
+  "temperature": 1000
+}

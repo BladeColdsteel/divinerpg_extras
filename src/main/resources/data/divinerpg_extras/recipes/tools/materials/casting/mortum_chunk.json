@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_fluid",
+  "fluid": {
+    "tag": "divinerpg_extras:molten_mortum_chunk",
+    "amount": 144
+  },
+  "temperature": 1750,
+  "output": "divinerpg_extras:mortum"
+}

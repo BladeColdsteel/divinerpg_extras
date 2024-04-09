@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": {
+    "item": "divinerpg_extras:mortum_chunk_block"
+  },
+  "value": 9,
+  "needed": 1,
+  "material": "divinerpg_extras:mortum",
+  "leftover": {
+    "item": "divinerpg:mortum_chunk"
+  }
+}

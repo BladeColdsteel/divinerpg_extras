@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "divinerpg:mintwood_log"
+    }
+  ],
+  "result": {
+    "item": "divinerpg_extras:mintwood_planks",
+    "count": 4
+  }
+}

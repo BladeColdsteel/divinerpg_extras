@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": {
+    "item": "divinerpg:torridite_block"
+  },
+  "value": 9,
+  "needed": 1,
+  "material": "divinerpg_extras:torridite",
+  "leftover": {
+    "item": "divinerpg:torridite_ingot"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "default": [
+    {
+      "name": "divinerpg_extras:skybound",
+      "level": 1
+    },
+    {
+      "name": "divinerpg_extras:twilight",
+      "level": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": {
+    "item": "divinerpg:rupee_block"
+  },
+  "value": 9,
+  "needed": 1,
+  "material": "divinerpg_extras:rupee",
+  "leftover": {
+    "item": "divinerpg:rupee_ingot"
+  }
+}

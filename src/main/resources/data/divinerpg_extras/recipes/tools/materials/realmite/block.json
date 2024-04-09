@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": {
+    "item": "divinerpg:realmite_block"
+  },
+  "value": 9,
+  "needed": 1,
+  "material": "divinerpg_extras:realmite",
+  "leftover": {
+    "item": "divinerpg:realmite_ingot"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "divinerpg:amthiris_lump"
+    }
+  },
+  "result": {
+    "item": "divinerpg_extras:amthiris_block"
+  }
+}

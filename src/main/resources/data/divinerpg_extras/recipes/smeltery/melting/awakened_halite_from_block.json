@@ -1,0 +1,25 @@
+{
+  "condition": {
+    "values": [
+      {
+        "prop": "force_integration_materials",
+        "type": "tconstruct:config"
+      },
+      {
+        "modid": "divinerpg",
+        "type": "forge:mod_loaded"
+      }
+    ],
+    "type": "forge:or"
+  },
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "divinerpg_extras:awakened_halite_block"
+  },
+  "result": {
+    "fluid": "divinerpg_extras:molten_awakened_halite",
+    "amount": 1296
+  },
+  "temperature": 2000,
+  "time": 200
+}

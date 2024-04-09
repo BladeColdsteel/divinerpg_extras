@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "divinerpg_extras:awakened_halite_nugget"
+    }
+  },
+  "result": {
+    "item": "divinerpg_extras:awakened_halite_ingot"
+  }
+}

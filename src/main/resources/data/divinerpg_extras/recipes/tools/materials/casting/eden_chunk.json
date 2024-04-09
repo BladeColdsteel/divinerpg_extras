@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_fluid",
+  "fluid": {
+    "tag": "divinerpg_extras:molten_eden_chunk",
+    "amount": 144
+  },
+  "temperature": 1350,
+  "output": "divinerpg_extras:eden"
+}

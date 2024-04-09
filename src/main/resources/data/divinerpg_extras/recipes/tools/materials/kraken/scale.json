@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": {
+    "item": "divinerpg:kraken_scale"
+  },
+  "value": 1,
+  "needed": 2,
+  "material": "divinerpg_extras:kraken"
+}

@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_melting",
+  "input": "divinerpg_extras:wildwood",
+  "temperature": 1450,
+  "result": {
+    "fluid": "divinerpg_extras:molten_wildwood_chunk",
+    "amount": 144
+  }
+}

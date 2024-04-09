@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_melting",
+  "input": "divinerpg_extras:bluefire",
+  "temperature": 1500,
+  "result": {
+    "fluid": "divinerpg_extras:molten_bluefire_stone",
+    "amount": 144
+  }
+}

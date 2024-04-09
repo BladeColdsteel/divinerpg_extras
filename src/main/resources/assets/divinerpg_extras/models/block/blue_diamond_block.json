@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "divinerpg_extras:blocks/blue_diamond_block"
+  }
+}

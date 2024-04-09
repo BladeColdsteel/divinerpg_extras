@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "divinerpg:jungle_stone"
+    }
+  },
+  "result": {
+    "item": "divinerpg_extras:jungle_stone_block"
+  }
+}

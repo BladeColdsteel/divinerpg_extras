@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_melting",
+  "input": "divinerpg_extras:realmite",
+  "temperature": 800,
+  "result": {
+    "fluid": "divinerpg_extras:molten_realmite",
+    "amount": 144
+  }
+}

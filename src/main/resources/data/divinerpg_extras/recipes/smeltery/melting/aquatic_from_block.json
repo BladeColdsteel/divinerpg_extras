@@ -1,0 +1,25 @@
+{
+  "condition": {
+    "values": [
+      {
+        "prop": "force_integration_materials",
+        "type": "tconstruct:config"
+      },
+      {
+        "modid": "divinerpg_extras",
+        "type": "forge:mod_loaded"
+      }
+    ],
+    "type": "forge:or"
+  },
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "divinerpg_extras:aquatic_block"
+  },
+  "result": {
+    "fluid": "divinerpg_extras:molten_aquatic",
+    "amount": 1296
+  },
+  "temperature": 500,
+  "time": 200
+}

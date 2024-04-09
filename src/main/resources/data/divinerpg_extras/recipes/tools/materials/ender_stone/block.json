@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": {
+    "item": "divinerpg_extras:ender_stone_block"
+  },
+  "value": 9,
+  "needed": 1,
+  "material": "divinerpg_extras:ender",
+  "leftover": {
+    "item": "divinerpg:ender_stone"
+  }
+}

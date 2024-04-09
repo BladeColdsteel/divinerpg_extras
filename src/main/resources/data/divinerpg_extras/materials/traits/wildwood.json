@@ -1,0 +1,12 @@
+{
+  "default": [
+    {
+      "name": "divinerpg_extras:woody",
+      "level": 1
+    },
+    {
+      "name": "divinerpg_extras:twilight",
+      "level": 1
+    }
+  ]
+}

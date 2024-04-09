@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_melting",
+  "input": "divinerpg_extras:corrupted",
+  "temperature": 1000,
+  "result": {
+    "fluid": "divinerpg_extras:molten_corrupted_stone",
+    "amount": 144
+  }
+}

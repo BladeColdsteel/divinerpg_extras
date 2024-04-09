@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_melting",
+  "input": "divinerpg_extras:shadow",
+  "temperature": 1000,
+  "result": {
+    "fluid": "divinerpg_extras:molten_shadow_stone",
+    "amount": 144
+  }
+}

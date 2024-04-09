@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "divinerpg:apalachia_chunk"
+    }
+  },
+  "result": {
+    "item": "divinerpg_extras:apalachia_chunk_block"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": {
+    "item": "divinerpg_extras:divine_stone_block"
+  },
+  "value": 9,
+  "needed": 1,
+  "material": "divinerpg_extras:divine",
+  "leftover": {
+    "item": "divinerpg:divine_stone"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "condition": {
+    "values": [
+      {
+        "prop": "force_integration_materials",
+        "type": "tconstruct:config"
+      },
+      {
+        "modid": "divinerpg",
+        "type": "forge:mod_loaded"
+      }
+    ],
+    "type": "forge:or"
+  },
+  "type": "tconstruct:alloy",
+  "inputs": [
+    {
+      "name": "divinerpg_extras:molten_green_everstone",
+      "amount": 500
+    },
+    {
+      "name": "divinerpg_extras:molten_white_everstone",
+      "amount": 500
+    },
+    {
+      "name": "divinerpg_extras:molten_black_everstone",
+      "amount": 500
+    }
+  ],
+  "result": {
+    "fluid": "divinerpg_extras:molten_liquid_everstone",
+    "amount": 500
+  },
+  "temperature": 1250
+}

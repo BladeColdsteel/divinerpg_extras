@@ -1,0 +1,25 @@
+{
+  "condition": {
+    "values": [
+      {
+        "prop": "force_integration_materials",
+        "type": "tconstruct:config"
+      },
+      {
+        "modid": "divinerpg",
+        "type": "forge:mod_loaded"
+      }
+    ],
+    "type": "forge:or"
+  },
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "divinerpg:divine_shards"
+  },
+  "result": {
+    "fluid": "divinerpg_extras:molten_divine_stone",
+    "amount": 16
+  },
+  "temperature": 1250,
+  "time": 50
+}

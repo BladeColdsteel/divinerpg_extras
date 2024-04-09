@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": {
+    "item": "divinerpg:wildwood_fragment"
+  },
+  "value": 1,
+  "needed": 21,
+  "material": "divinerpg_extras:wildwood"
+}

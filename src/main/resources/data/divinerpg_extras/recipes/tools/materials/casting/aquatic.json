@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_fluid",
+  "fluid": {
+    "tag": "divinerpg_extras:molten_aquatic",
+    "amount": 144
+  },
+  "temperature": 500,
+  "output": "divinerpg_extras:aquatic"
+}

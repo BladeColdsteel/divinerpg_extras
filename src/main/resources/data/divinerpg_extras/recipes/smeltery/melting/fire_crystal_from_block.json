@@ -1,0 +1,25 @@
+{
+  "condition": {
+    "values": [
+      {
+        "prop": "force_integration_materials",
+        "type": "tconstruct:config"
+      },
+      {
+        "modid": "divinerpg",
+        "type": "forge:mod_loaded"
+      }
+    ],
+    "type": "forge:or"
+  },
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "divinerpg:fire_crystal"
+  },
+  "result": {
+    "fluid": "divinerpg_extras:molten_fire_crystal",
+    "amount": 50
+  },
+  "temperature": 800,
+  "time": 100
+}

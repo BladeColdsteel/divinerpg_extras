@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_melting",
+  "input": "divinerpg_extras:apalachia",
+  "temperature": 1550,
+  "result": {
+    "fluid": "divinerpg_extras:molten_apalachia_chunk",
+    "amount": 144
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "condition": {
+    "values": [
+      {
+        "prop": "force_integration_materials",
+        "type": "tconstruct:config"
+      },
+      {
+        "modid": "divinerpg",
+        "type": "forge:mod_loaded"
+      }
+    ],
+    "type": "forge:or"
+  },
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "divinerpg:apalachia_chunk"
+  },
+  "result": {
+    "fluid": "divinerpg_extras:molten_apalachia_chunk",
+    "amount": 144
+  },
+  "temperature": 1550,
+  "time": 100
+}

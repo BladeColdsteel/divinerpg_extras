@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": {
+    "item": "divinerpg_extras:gray_diamond_block"
+  },
+  "value": 9,
+  "needed": 1,
+  "material": "divinerpg_extras:gray_diamond",
+  "leftover": {
+    "item": "divinerpg:gray_diamond_chunk"
+  }
+}

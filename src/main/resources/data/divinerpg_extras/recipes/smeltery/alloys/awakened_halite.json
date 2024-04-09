@@ -1,0 +1,35 @@
+{
+  "condition": {
+    "values": [
+      {
+        "prop": "force_integration_materials",
+        "type": "tconstruct:config"
+      },
+      {
+        "modid": "divinerpg",
+        "type": "forge:mod_loaded"
+      }
+    ],
+    "type": "forge:or"
+  },
+  "type": "tconstruct:alloy",
+  "inputs": [
+    {
+      "name": "divinerpg_extras:molten_divine_stone",
+      "amount": 288
+    },
+    {
+      "name": "divinerpg_extras:molten_arcanium",
+      "amount": 576
+    },
+    {
+      "name": "divinerpg_extras:molten_arksiane",
+      "amount": 144
+    }
+  ],
+  "result": {
+    "fluid": "divinerpg_extras:molten_awakened_halite",
+    "amount": 504
+  },
+  "temperature": 1750
+}

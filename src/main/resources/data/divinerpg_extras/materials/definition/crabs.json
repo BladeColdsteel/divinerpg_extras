@@ -1,0 +1,20 @@
+{
+  "condition": {
+    "values": [
+      {
+        "prop": "force_integration_materials",
+        "type": "tconstruct:config"
+      },
+      {
+        "modid": "divinerpg",
+        "type": "forge:mod_loaded"
+      }
+    ],
+    "type": "forge:or"
+  },
+  "craftable": true,
+  "tier": 1,
+  "sortOrder": 2,
+  "textColor": "#b32619",
+  "hidden": false
+}

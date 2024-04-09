@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:melting_fuel",
+  "fluid": {
+    "name": "divinerpg_extras:molten_fire_crystal",
+    "amount": 50
+  },
+  "duration": 100,
+  "temperature": 1250
+}

@@ -1,0 +1,25 @@
+{
+  "condition": {
+    "values": [
+      {
+        "prop": "force_integration_materials",
+        "type": "tconstruct:config"
+      },
+      {
+        "modid": "divinerpg",
+        "type": "forge:mod_loaded"
+      }
+    ],
+    "type": "forge:or"
+  },
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "divinerpg:arcanium"
+  },
+  "result": {
+    "fluid": "divinerpg_extras:molten_arcanium",
+    "amount": 144
+  },
+  "temperature": 1750,
+  "time": 100
+}

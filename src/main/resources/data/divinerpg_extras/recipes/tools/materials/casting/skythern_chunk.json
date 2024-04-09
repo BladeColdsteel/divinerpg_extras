@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_fluid",
+  "fluid": {
+    "tag": "divinerpg_extras:molten_skythern_chunk",
+    "amount": 144
+  },
+  "temperature": 1650,
+  "output": "divinerpg_extras:skythern"
+}

@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_melting",
+  "input": "divinerpg_extras:jungle",
+  "temperature": 850,
+  "result": {
+    "fluid": "divinerpg_extras:molten_jungle_stone",
+    "amount": 144
+  }
+}

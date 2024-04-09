@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": {
+    "item": "divinerpg_extras:molten_stone_block"
+  },
+  "value": 9,
+  "needed": 1,
+  "material": "divinerpg_extras:molten",
+  "leftover": {
+    "item": "divinerpg:molten_stone"
+  }
+}

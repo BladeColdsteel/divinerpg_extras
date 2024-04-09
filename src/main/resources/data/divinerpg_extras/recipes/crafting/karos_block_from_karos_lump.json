@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "divinerpg:karos_lump"
+    }
+  },
+  "result": {
+    "item": "divinerpg_extras:karos_block"
+  }
+}

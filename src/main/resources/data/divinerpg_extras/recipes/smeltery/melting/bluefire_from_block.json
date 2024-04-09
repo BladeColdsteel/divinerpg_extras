@@ -1,0 +1,25 @@
+{
+  "condition": {
+    "values": [
+      {
+        "prop": "force_integration_materials",
+        "type": "tconstruct:config"
+      },
+      {
+        "modid": "divinerpg",
+        "type": "forge:mod_loaded"
+      }
+    ],
+    "type": "forge:or"
+  },
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "divinerpg_extras:bluefire_stone_block"
+  },
+  "result": {
+    "fluid": "divinerpg_extras:molten_bluefire_stone",
+    "amount": 1296
+  },
+  "temperature": 1500,
+  "time": 200
+}

@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": {
+    "item": "divinerpg:arlemite_block"
+  },
+  "value": 9,
+  "needed": 1,
+  "material": "divinerpg_extras:arlemite",
+  "leftover": {
+    "item": "divinerpg:arlemite_ingot"
+  }
+}

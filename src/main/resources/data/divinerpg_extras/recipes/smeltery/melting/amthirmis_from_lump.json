@@ -1,0 +1,25 @@
+{
+  "condition": {
+    "values": [
+      {
+        "prop": "force_integration_materials",
+        "type": "tconstruct:config"
+      },
+      {
+        "modid": "divinerpg",
+        "type": "forge:mod_loaded"
+      }
+    ],
+    "type": "forge:or"
+  },
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "divinerpg:amthirmis_lump"
+  },
+  "result": {
+    "fluid": "divinerpg_extras:molten_amthirmis",
+    "amount": 144
+  },
+  "temperature": 900,
+  "time": 75
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "divinerpg_extras:blocks/bedrock_chunk_block"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "condition": {
+    "values": [
+      {
+        "prop": "force_integration_materials",
+        "type": "tconstruct:config"
+      },
+      {
+        "modid": "divinerpg",
+        "type": "forge:mod_loaded"
+      }
+    ],
+    "type": "forge:or"
+  },
+  "type": "tconstruct:alloy",
+  "inputs": [
+    {
+      "name": "divinerpg_extras:molten_arlemite",
+      "amount": 1152
+    },
+    {
+      "name": "tconstruct:molten_diamond",
+      "amount": 144
+    }
+  ],
+  "result": {
+    "fluid": "divinerpg_extras:molten_green_diamond",
+    "amount": 144
+  },
+  "temperature": 1250
+}

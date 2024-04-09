@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "divinerpg_extras:molten_bedrock_chunk",
+    "divinerpg_extras:flowing_molten_bedrock_chunk"
+  ]
+}

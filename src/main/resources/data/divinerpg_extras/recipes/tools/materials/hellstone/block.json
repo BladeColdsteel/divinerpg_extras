@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": {
+    "item": "divinerpg_extras:hellstone_block"
+  },
+  "value": 9,
+  "needed": 1,
+  "material": "divinerpg_extras:hellstone",
+  "leftover": {
+    "item": "divinerpg:hellstone_ingot"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:melting_fuel",
+  "fluid": {
+    "name": "divinerpg_extras:molten_liquid_everstone",
+    "amount": 100
+  },
+  "duration": 150,
+  "temperature": 2000
+}

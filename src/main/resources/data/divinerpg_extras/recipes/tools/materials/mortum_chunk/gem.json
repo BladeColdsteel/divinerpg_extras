@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": {
+    "item": "divinerpg:mortum_gem"
+  },
+  "value": 1,
+  "needed": 7,
+  "material": "divinerpg_extras:mortum"
+}

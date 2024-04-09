@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_fluid",
+  "fluid": {
+    "tag": "divinerpg_extras:molten_arcanium",
+    "amount": 144
+  },
+  "temperature": 1750,
+  "output": "divinerpg_extras:arcanium"
+}

@@ -1,0 +1,25 @@
+{
+  "condition": {
+    "values": [
+      {
+        "prop": "force_integration_materials",
+        "type": "tconstruct:config"
+      },
+      {
+        "modid": "divinerpg",
+        "type": "forge:mod_loaded"
+      }
+    ],
+    "type": "forge:or"
+  },
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "divinerpg_extras:wildwood_chunk_block"
+  },
+  "result": {
+    "fluid": "divinerpg_extras:molten_wildwood_chunk",
+    "amount": 1296
+  },
+  "temperature": 1450,
+  "time": 200
+}

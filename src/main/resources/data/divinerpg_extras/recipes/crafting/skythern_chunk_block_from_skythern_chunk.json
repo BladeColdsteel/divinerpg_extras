@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "divinerpg:skythern_chunk"
+    }
+  },
+  "result": {
+    "item": "divinerpg_extras:skythern_chunk_block"
+  }
+}

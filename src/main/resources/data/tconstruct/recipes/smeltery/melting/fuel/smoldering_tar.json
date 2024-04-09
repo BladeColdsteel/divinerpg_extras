@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:melting_fuel",
+  "fluid": {
+    "name": "divinerpg:smoldering_tar",
+    "amount": 100
+  },
+  "duration": 200,
+  "temperature": 2000
+}

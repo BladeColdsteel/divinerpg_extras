@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_melting",
+  "input": "divinerpg_extras:karos",
+  "temperature": 1200,
+  "result": {
+    "fluid": "divinerpg_extras:molten_karos",
+    "amount": 144
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "condition": {
+    "values": [
+      {
+        "prop": "force_integration_materials",
+        "type": "tconstruct:config"
+      },
+      {
+        "modid": "divinerpg",
+        "type": "forge:mod_loaded"
+      }
+    ],
+    "type": "forge:or"
+  },
+  "type": "tconstruct:casting_basin",
+  "cast": {
+    "name": "divinerpg_extras:bedrock_chunk_block"
+  },
+  "cast_consumed": true,
+  "fluid": {
+    "name": "divinerpg_extras:molten_bedrock_chunk",
+    "amount": 1296
+  },
+  "result": "minecraft:bedrock",
+  "cooling_time": 800
+}

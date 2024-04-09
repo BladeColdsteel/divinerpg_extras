@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "divinerpg:shadow_stone"
+    }
+  },
+  "result": {
+    "item": "divinerpg_extras:shadow_block"
+  }
+}

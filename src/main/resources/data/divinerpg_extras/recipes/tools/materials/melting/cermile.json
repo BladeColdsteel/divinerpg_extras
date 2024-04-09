@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_melting",
+  "input": "divinerpg_extras:cermile",
+  "temperature": 1100,
+  "result": {
+    "fluid": "divinerpg_extras:molten_cermile",
+    "amount": 144
+  }
+}

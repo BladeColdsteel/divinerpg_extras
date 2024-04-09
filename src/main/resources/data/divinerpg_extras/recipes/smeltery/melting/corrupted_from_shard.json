@@ -1,0 +1,25 @@
+{
+  "condition": {
+    "values": [
+      {
+        "prop": "force_integration_materials",
+        "type": "tconstruct:config"
+      },
+      {
+        "modid": "divinerpg",
+        "type": "forge:mod_loaded"
+      }
+    ],
+    "type": "forge:or"
+  },
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "divinerpg:corrupted_shards"
+  },
+  "result": {
+    "fluid": "divinerpg_extras:molten_corrupted_stone",
+    "amount": 16
+  },
+  "temperature": 1000,
+  "time": 50
+}

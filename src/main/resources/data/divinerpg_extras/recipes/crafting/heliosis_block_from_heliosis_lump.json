@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "divinerpg:heliosis_lump"
+    }
+  },
+  "result": {
+    "item": "divinerpg_extras:heliosis_block"
+  }
+}

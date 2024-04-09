@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "divinerpg_extras:blocks/aquatic_block_left",
+    "north": "divinerpg_extras:blocks/aquatic_block_left",
+    "south": "divinerpg_extras:blocks/aquatic_block_right",
+    "west": "divinerpg_extras:blocks/aquatic_block_front",
+    "up": "divinerpg_extras:blocks/aquatic_block_front",
+    "east": "divinerpg_extras:blocks/aquatic_block_back",
+    "down": "divinerpg_extras:blocks/aquatic_block_back"
+  }
+}

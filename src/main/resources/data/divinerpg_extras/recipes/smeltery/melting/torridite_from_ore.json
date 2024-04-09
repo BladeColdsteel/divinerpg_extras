@@ -1,0 +1,25 @@
+{
+  "condition": {
+    "values": [
+      {
+        "prop": "force_integration_materials",
+        "type": "tconstruct:config"
+      },
+      {
+        "modid": "divinerpg",
+        "type": "forge:mod_loaded"
+      }
+    ],
+    "type": "forge:or"
+  },
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "divinerpg:torridite_ore"
+  },
+  "result": {
+    "fluid": "divinerpg_extras:molten_torridite",
+    "amount": 288
+  },
+  "temperature": 1000,
+  "time": 100
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "divinerpg:blue_diamond_chunk"
+    }
+  },
+  "result": {
+    "item": "divinerpg_extras:blue_diamond_block"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_fluid",
+  "fluid": {
+    "tag": "divinerpg_extras:molten_molten_stone",
+    "amount": 144
+  },
+  "temperature": 1000,
+  "output": "divinerpg_extras:molten"
+}

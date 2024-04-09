@@ -1,0 +1,31 @@
+{
+  "condition": {
+    "values": [
+      {
+        "prop": "force_integration_materials",
+        "type": "tconstruct:config"
+      },
+      {
+        "modid": "divinerpg",
+        "type": "forge:mod_loaded"
+      }
+    ],
+    "type": "forge:or"
+  },
+  "type": "tconstruct:alloy",
+  "inputs": [
+    {
+      "name": "divinerpg_extras:molten_torridite",
+      "amount": 648
+    },
+    {
+      "name": "divinerpg_extras:molten_shadow_stone",
+      "amount": 72
+    }
+  ],
+  "result": {
+    "fluid": "divinerpg_extras:molten_hellstone",
+    "amount": 144
+  },
+  "temperature": 1250
+}

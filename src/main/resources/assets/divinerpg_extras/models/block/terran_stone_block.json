@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "divinerpg_extras:blocks/terran_stone_block_top",
+    "side": "divinerpg_extras:blocks/terran_stone_block_side"
+  }
+}

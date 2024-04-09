@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_melting",
+  "input": "divinerpg_extras:pardimal",
+  "temperature": 1300,
+  "result": {
+    "fluid": "divinerpg_extras:molten_pardimal",
+    "amount": 144
+  }
+}

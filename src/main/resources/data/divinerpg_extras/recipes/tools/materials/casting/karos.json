@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_fluid",
+  "fluid": {
+    "tag": "divinerpg_extras:molten_karos",
+    "amount": 144
+  },
+  "temperature": 1200,
+  "output": "divinerpg_extras:karos"
+}

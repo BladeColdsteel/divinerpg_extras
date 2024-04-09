@@ -1,0 +1,25 @@
+{
+  "condition": {
+    "values": [
+      {
+        "prop": "force_integration_materials",
+        "type": "tconstruct:config"
+      },
+      {
+        "modid": "divinerpg",
+        "type": "forge:mod_loaded"
+      }
+    ],
+    "type": "forge:or"
+  },
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "divinerpg:awakened_halite_leggings"
+  },
+  "result": {
+    "fluid": "divinerpg_extras:molten_awakened_halite",
+    "amount": 1008
+  },
+  "temperature": 1750,
+  "time": 150
+}

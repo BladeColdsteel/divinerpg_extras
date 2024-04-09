@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": {
+    "item": "divinerpg_extras:awakened_halite_block"
+  },
+  "value": 9,
+  "needed": 1,
+  "material": "divinerpg_extras:awakened_halite",
+  "leftover": {
+    "item": "divinerpg_extras:awakened_halite_ingot"
+  }
+}

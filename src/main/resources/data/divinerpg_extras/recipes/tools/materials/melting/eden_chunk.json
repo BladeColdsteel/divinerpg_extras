@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_melting",
+  "input": "divinerpg_extras:eden",
+  "temperature": 1350,
+  "result": {
+    "fluid": "divinerpg_extras:molten_eden_chunk",
+    "amount": 144
+  }
+}

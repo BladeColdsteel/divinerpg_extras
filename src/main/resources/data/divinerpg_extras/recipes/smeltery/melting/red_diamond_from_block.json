@@ -1,0 +1,25 @@
+{
+  "condition": {
+    "values": [
+      {
+        "prop": "force_integration_materials",
+        "type": "tconstruct:config"
+      },
+      {
+        "modid": "divinerpg",
+        "type": "forge:mod_loaded"
+      }
+    ],
+    "type": "forge:or"
+  },
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "divinerpg_extras:red_diamond_block"
+  },
+  "result": {
+    "fluid": "divinerpg_extras:molten_red_diamond",
+    "amount": 1296
+  },
+  "temperature": 1000,
+  "time": 200
+}

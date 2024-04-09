@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_fluid",
+  "fluid": {
+    "tag": "divinerpg_extras:molten_terran_stone",
+    "amount": 144
+  },
+  "temperature": 850,
+  "output": "divinerpg_extras:terran"
+}

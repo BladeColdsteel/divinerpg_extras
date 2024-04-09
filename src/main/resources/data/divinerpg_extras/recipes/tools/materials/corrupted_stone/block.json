@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": {
+    "item": "divinerpg_extras:corrupted_stone_block"
+  },
+  "value": 9,
+  "needed": 1,
+  "material": "divinerpg_extras:corrupted",
+  "leftover": {
+    "item": "divinerpg:corrupted_stone"
+  }
+}
